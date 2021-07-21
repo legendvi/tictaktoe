@@ -22,3 +22,12 @@ main {
   width: auto;
   height: 4.2rem;
 }
+@media (max-width: 400px) {
+  .box {
+    width: 250px;
+  }
+  .square {
+    max-width: 1em;
+    max-height: 0.8em;
+  }
+}
