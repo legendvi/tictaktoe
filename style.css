@@ -31,5 +31,6 @@ main {
   .square {
     width: 1em;
     min-height: 1em;
+    mac-height:1em;
   }
 }
